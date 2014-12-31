@@ -1,7 +1,7 @@
 [Alpine Linux](http://www.alpinelinux.org/)
 ============
 
-This is the Alpine Linux JRE.
+This is the Alpine Linux JDK.
 
 It has `/sbin/apk.static` for package management.
 
